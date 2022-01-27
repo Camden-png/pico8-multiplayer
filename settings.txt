@@ -1,0 +1,14 @@
+# Only edit the text after each colon for your settings to work
+
+Directory to application: none                                                 # example: C:\Program Files (x86)\PICO-8\pico8.exe
+
+Directory to cart: none                                                        # example: C:\Users\Camden\AppData\Roaming\pico-8\carts\demo.p8
+
+Default IP: none                                                               # example: 192.168.1.121
+
+Pause: 0.015                                                                   # how long Pico-8 is forced to wait each tick for the byte stream to update
+                                                                               # a smaller value yields smoother visuals but the other player's location
+                                                                               # will update less frequently (which looks pretty bad)
+
+Scale: 3x                                                                      # how large the screen is, 1x scale is 128x128 pixels
+                                                                               # 2x scale is 256x256 pixels, and so on...
