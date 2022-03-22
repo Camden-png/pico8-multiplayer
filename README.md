@@ -1,4 +1,4 @@
-# Pico-8 LAN Multiplayer
+# Pico-8 LAN/Online Multiplayer
 
 ## Synopsis:
 LAN multiplayer for Pico-8! Please let me know if you make any games with this tool!  
